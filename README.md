@@ -9,8 +9,16 @@ All you need to do is share one folder on all the machines that should run your 
 
 You can let the system create job files out of your original scripts with create_job.py. 
 
+A more detailed description can be found in the included pdf.
+
 # History
 I developed this job system for my doctoral thesis around 2005/2006. So please excuse the old fashioned coding style. Obviously it runs with python 2 though adaption to python 3 will be minimal. 
+
+# Reference: 
+
+* Ingo R. Keck, ICA Incompleto Paralelo: Una nueva herramienta para el an ́alisis de datos fMRI; Parallel Incomplete ICA – A New Tool to Analyse fMRI Data Sets, Doctoral thesis, University of Granada, 2006.
+
+A copy of the relevant parts of the thesis is included as inICA.pdf.
 
 # License
    Copyright 2006 Ingo R. Keck
