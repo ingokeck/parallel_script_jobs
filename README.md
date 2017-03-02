@@ -16,7 +16,7 @@ I developed this job system for my doctoral thesis around 2005/2006. So please e
 
 # Reference: 
 
-* Ingo R. Keck, ICA Incompleto Paralelo: Una nueva herramienta para el an ́alisis de datos fMRI; Parallel Incomplete ICA – A New Tool to Analyse fMRI Data Sets, Doctoral thesis, University of Granada, 2006.
+* Ingo R. Keck, ICA Incompleto Paralelo: Una nueva herramienta para el an ́ánlisis de datos fMRI; Parallel Incomplete ICA – A New Tool to Analyse fMRI Data Sets, Doctoral thesis, University of Granada, 2006.
 
 A copy of the relevant parts of the thesis is included as inICA.pdf.
 
